@@ -57,7 +57,7 @@ for i in range(packetss):
 
                     \u001b[36mW E L C O M E  \u001b[31;1mD D O S  \u001b[36mS C R I P T
 
-                        \u001b[37mCreated by \u001b[36mFerhat ERTURK
+                        \u001b[37mCreated by \u001b[36m IParinya
             ______________________________________________________
                         """)
     print(atak1)
@@ -71,7 +71,7 @@ print("""
 
                 \u001b[36mW E L C O M E  \u001b[31;1mD D O S  \u001b[36mS C R I P T
 
-                    \u001b[37mCreated by \u001b[36mFerhat ERTURK
+                    \u001b[37mCreated by \u001b[36mIParinya
         ______________________________________________________
                     """)
 print(atak1)
